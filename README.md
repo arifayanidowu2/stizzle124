@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, travelling, cooking, coding, and fashion
 - 🌱 I’m currently learning Solidity, DApp and tRPC
 - 💞️ I’m looking to collaborate on `react-native` projects and possibly build a UI library for `react-native` & `react`
-- 📫 How to reach me, you can holla at me on linkedin ([https://www.linkedin.com/in/olatubosun-arifayan/](https://www.linkedin.com/in/olatubosun-arifayan/)) and x ([@arifayanidowu](https://twitter.com/arifayanidowu))
+- 📫 You can holla at me on linkedin ([https://www.linkedin.com/in/olatubosun-arifayan/](https://www.linkedin.com/in/olatubosun-arifayan/)) and x ([@arifayanidowu](https://twitter.com/arifayanidowu))
 
 <!---
 stizzle124/stizzle124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
